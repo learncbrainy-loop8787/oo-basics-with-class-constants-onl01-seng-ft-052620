@@ -13,5 +13,4 @@ BRAND =[]
  def brand=()
     @genre = genre
     GENRES << genre 
-  end
-end
+  end=
