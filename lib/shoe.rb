@@ -12,6 +12,6 @@ BRAND =[]
   end
  def brand=(brand)
     @brand= brand
-    GENRES << brand
+    BRAND << brand
   end
 end
